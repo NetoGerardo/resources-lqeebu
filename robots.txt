@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://NetoGerardo.github.io/resources-lqeebu/sitemap.xml
